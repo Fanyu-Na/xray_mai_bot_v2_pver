@@ -1,0 +1,13 @@
+# You should use a python whose version is greater than 3.9 and less than 3.13
+nonebot2[fastapi]==2.3.2
+pillow==9.5.0
+nb-cli==1.2.2
+pymongo==3.11.3
+nonebot-adapter-onebot==2.4.4
+aiofiles==24.1.0
+peewee==3.17.6
+aiohttp==3.10.0
+psutil==6.0.0
+blackboxprotobuf==1.0.1
+nonebot-plugin-imageutils==0.1.17
+nonebot-plugin-localstore==0.7.0
